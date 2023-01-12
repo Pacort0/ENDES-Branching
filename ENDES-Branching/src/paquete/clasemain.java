@@ -36,7 +36,7 @@ public class clasemain {
 			resultado = a / b;
 		}
 		
-		System.out.print("El resultado de la operación es: " + resultado);
+		System.out.println("El resultado de la operación es: " + resultado);
 		
 		
 		System.out.println("El valor de a es primo? : "+clasemain.sumaDeNumerosEsPrimo(a));
